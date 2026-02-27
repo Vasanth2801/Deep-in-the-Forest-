@@ -13,6 +13,11 @@ public class Player : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private bool isGrounded;
 
+    [Header("Attack Settings")]
+    [SerializeField] private float attackRange;
+    [SerializeField] private LayerMask enemyLayer;
+    [SerializeField] private Transform attackPoint;
+
     [Header("References")]
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
@@ -31,6 +36,11 @@ public class Player : MonoBehaviour
             Flip();
         }
 
+        if(Input.GetKeyDown(KeyCode.K))
+        {
+            Attack();
+        }
+
         HandleAnimations();
     }
 
@@ -47,6 +57,17 @@ public class Player : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             Debug.Log("Jumped!");
+        }
+    }
+
+    void Attack()
+    {
+        animator.SetTrigger("Attack");
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            Debug.Log("Hit " + enemy.name);
         }
     }
 
