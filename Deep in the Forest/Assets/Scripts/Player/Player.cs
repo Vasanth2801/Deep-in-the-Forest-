@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
     [Header("Input Settings")]
     [SerializeField] private float movement;
 
-    private void Update()
+    void Update()
     {
         movement = Input.GetAxisRaw("Horizontal");
 

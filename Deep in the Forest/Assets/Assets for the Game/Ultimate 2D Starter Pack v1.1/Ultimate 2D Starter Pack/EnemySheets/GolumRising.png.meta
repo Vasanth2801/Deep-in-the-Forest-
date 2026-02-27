@@ -271,7 +271,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -285,7 +285,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -308,7 +308,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -368,7 +368,7 @@ TextureImporter:
         width: 35
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -386,11 +386,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 383
-        width: 35
-        height: 24
+        y: 378
+        width: 51
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -404,37 +404,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_2
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 383
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78c19372aecd4a770800000000000000
-      internalID: 8621258484932484231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_3
       rect:
         serializedVersion: 2
         x: 272
-        y: 383
-        width: 35
-        height: 24
+        y: 382
+        width: 52
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -448,37 +426,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_4
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 394
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2a91647b646d1ac0800000000000000
-      internalID: -3882836891046667733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_5
       rect:
         serializedVersion: 2
         x: 384
         y: 383
-        width: 35
-        height: 24
+        width: 51
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -492,37 +448,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_6
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 395
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84e97cbe448a7eae0800000000000000
-      internalID: -1520061335247282616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_7
       rect:
         serializedVersion: 2
         x: 496
         y: 383
-        width: 35
-        height: 24
+        width: 49
+        height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -536,37 +470,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_8
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 396
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 30c2dc61942e42510800000000000000
-      internalID: 1523591377501105155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_9
       rect:
         serializedVersion: 2
         x: 48
-        y: 287
-        width: 35
-        height: 24
+        y: 288
+        width: 58
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -580,37 +492,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_10
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 287
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36facbf468dcc24e0800000000000000
-      internalID: -2005001757339635869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_11
       rect:
         serializedVersion: 2
         x: 160
         y: 287
-        width: 35
-        height: 24
+        width: 53
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -624,59 +514,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_12
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 287
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ea215efcc54590e0800000000000000
-      internalID: -2263826490941429018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_13
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 287
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84e14e5ecd4904ad0800000000000000
-      internalID: -2720010498461131192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_14
       rect:
         serializedVersion: 2
-        x: 272
+        x: 260
         y: 287
-        width: 35
-        height: 24
+        width: 65
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -690,59 +536,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_15
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 287
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f9b1db9e5de47550800000000000000
-      internalID: 6157807581119232496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_16
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 291
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d1ed9b685b47f540800000000000000
-      internalID: 5041581150999273943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_17
       rect:
         serializedVersion: 2
-        x: 384
+        x: 370
         y: 287
-        width: 35
-        height: 24
+        width: 66
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -756,59 +558,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_18
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 287
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92d176e9ecb41f680800000000000000
-      internalID: -8723107652447036119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_19
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 292
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d06c18b4c4d52aa0800000000000000
-      internalID: -6186304571755962156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_20
       rect:
         serializedVersion: 2
-        x: 496
+        x: 481
         y: 287
-        width: 35
-        height: 24
+        width: 66
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -822,59 +580,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_21
-      rect:
-        serializedVersion: 2
-        x: 532
-        y: 287
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75a9f37a61ee82d50800000000000000
-      internalID: 6712877025658378839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_22
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 197
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec83db7c43910fca0800000000000000
-      internalID: -5985256190295328562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_23
       rect:
         serializedVersion: 2
-        x: 48
-        y: 191
-        width: 35
-        height: 24
+        x: 36
+        y: 189
+        width: 66
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -888,59 +602,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_24
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 191
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8dccd052a98d4f7b0800000000000000
-      internalID: -5191286313893114664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_25
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 191
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc2c2492d1144a3b0800000000000000
-      internalID: -5502201251237805364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_26
       rect:
         serializedVersion: 2
-        x: 160
+        x: 147
         y: 191
-        width: 35
-        height: 24
+        width: 68
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -954,59 +624,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_27
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 191
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8cc9d10e5e0ff44d0800000000000000
-      internalID: -3148032744410473272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_28
+      name: GolumRising_29
       rect:
         serializedVersion: 2
         x: 257
         y: 191
-        width: 16
-        height: 23
+        width: 69
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f1a98e60f7603350800000000000000
-      internalID: 5994405386374455794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_29
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 191
-        width: 35
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1020,59 +646,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_30
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 191
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 387f64919083451a0800000000000000
-      internalID: -6821765923829516413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_31
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 191
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b58e0ac3116b0450800000000000000
-      internalID: 6056040861551986098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_32
       rect:
         serializedVersion: 2
-        x: 384
+        x: 371
         y: 191
-        width: 35
-        height: 24
+        width: 71
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1086,59 +668,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_33
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 191
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11838a89317937a30800000000000000
-      internalID: 4211876186942879761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_34
+      name: GolumRising_35
       rect:
         serializedVersion: 2
         x: 481
         y: 191
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97e1ac0ef17bbccc0800000000000000
-      internalID: -3689654122156777863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_35
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 191
-        width: 35
+        width: 70
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1152,59 +690,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_36
-      rect:
-        serializedVersion: 2
-        x: 532
-        y: 191
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6578346fc2e6d15b0800000000000000
-      internalID: -5396035639130749098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_37
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 95
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4a3709799ab49330800000000000000
-      internalID: 3716800760810781263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_38
       rect:
         serializedVersion: 2
-        x: 49
-        y: 99
-        width: 34
-        height: 44
+        x: 34
+        y: 92
+        width: 72
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1218,59 +712,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_39
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 95
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abec69478614adfa0800000000000000
-      internalID: -5775231655260795206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_40
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 95
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76fc64562d9cacad0800000000000000
-      internalID: -2681108722666254489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_41
       rect:
         serializedVersion: 2
-        x: 159
-        y: 107
-        width: 36
-        height: 40
+        x: 149
+        y: 94
+        width: 68
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1284,59 +734,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_42
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 95
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9508bb01c3baab00800000000000000
-      internalID: 840681922164688284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_43
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 95
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b096c558ea5e7180800000000000000
-      internalID: -9115748641833316175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_44
       rect:
         serializedVersion: 2
-        x: 271
-        y: 95
-        width: 36
-        height: 52
+        x: 260
+        y: 93
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1350,59 +756,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_45
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 95
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b67b5005fb22c8ad0800000000000000
-      internalID: -2698743871625119893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_46
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 95
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b7ca452e6257f160800000000000000
-      internalID: 7059201573952079799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_47
       rect:
         serializedVersion: 2
-        x: 383
-        y: 95
-        width: 36
-        height: 52
+        x: 371
+        y: 93
+        width: 66
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1416,59 +778,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_48
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 95
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 507a27649d6787ff0800000000000000
-      internalID: -38149921270749435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_49
-      rect:
-        serializedVersion: 2
-        x: 482
-        y: 99
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2171572379bed6230800000000000000
-      internalID: 3633819508976981778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_50
       rect:
         serializedVersion: 2
-        x: 495
-        y: 111
-        width: 37
-        height: 42
+        x: 485
+        y: 94
+        width: 64
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1482,103 +800,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_51
-      rect:
-        serializedVersion: 2
-        x: 497
-        y: 95
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c5f811ea322e4930800000000000000
-      internalID: 4129275544625280456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_52
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 95
-        width: 35
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee7ceb9ecc681be50800000000000000
-      internalID: 6823383125096056814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_53
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 95
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 339f266ce02746150800000000000000
-      internalID: 5864938022526712115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_54
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 9
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ecee112ad8e5aea0800000000000000
-      internalID: -5862023316396643101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_55
       rect:
         serializedVersion: 2
-        x: 48
-        y: 18
-        width: 34
-        height: 44
+        x: 33
+        y: 0
+        width: 66
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1592,81 +822,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_56
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 0
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6161113c2139414c0800000000000000
-      internalID: -4317664433950091754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_57
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 10
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84e2c2a386b33aa80800000000000000
-      internalID: -8456850356433047992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_58
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 13
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c1ed1a4350dc5ba0800000000000000
-      internalID: -6098770739222158904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_59
       rect:
         serializedVersion: 2
-        x: 160
-        y: 22
-        width: 35
-        height: 44
+        x: 149
+        y: 0
+        width: 60
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1680,103 +844,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_60
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 0
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31508360c0da10400800000000000000
-      internalID: 288702118283969811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_61
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 0
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1303fd3cb49c2490800000000000000
-      internalID: -7769671720906849506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_62
-      rect:
-        serializedVersion: 2
-        x: 186
-        y: 14
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c9c912aeb878f750800000000000000
-      internalID: 6338949235682691523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_63
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 13
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1a14b62124a112e0800000000000000
-      internalID: -2156762284243543525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_64
       rect:
         serializedVersion: 2
-        x: 272
-        y: 22
-        width: 35
-        height: 44
+        x: 261
+        y: 0
+        width: 59
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1790,103 +866,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_65
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 0
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d72f9a86d40d9bfb0800000000000000
-      internalID: -4631441710886817155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_66
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 0
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79eac96957306d820800000000000000
-      internalID: 2942543210106105495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_67
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 14
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39a093115d152fd40800000000000000
-      internalID: 5616641660843264659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_68
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 13
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a33453e54b7f548b0800000000000000
-      internalID: -5168452643291053254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_69
       rect:
         serializedVersion: 2
-        x: 384
-        y: 22
-        width: 35
-        height: 44
+        x: 372
+        y: 0
+        width: 59
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1900,103 +888,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GolumRising_70
-      rect:
-        serializedVersion: 2
-        x: 385
-        y: 0
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 705a9708b04c03570800000000000000
-      internalID: 8444464854998820103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_71
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 0
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6936fe0f4d570fd20800000000000000
-      internalID: 3310275283553051542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_72
-      rect:
-        serializedVersion: 2
-        x: 410
-        y: 14
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 695e882658604d210800000000000000
-      internalID: 1356716557698917782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_73
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 13
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81ff5c7bcfba93540800000000000000
-      internalID: 4988207164192849688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GolumRising_74
       rect:
         serializedVersion: 2
-        x: 496
-        y: 22
-        width: 35
-        height: 44
+        x: 485
+        y: 0
+        width: 58
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2009,99 +909,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: GolumRising_75
-      rect:
-        serializedVersion: 2
-        x: 497
-        y: 0
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1294bd28fb0972060800000000000000
-      internalID: 6928665703941359905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_76
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 0
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0d8a214657ae81d0800000000000000
-      internalID: -3346553484187366134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_77
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 14
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36ddbfd7ef34255c0800000000000000
-      internalID: -4228242339833062045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GolumRising_78
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6455d276366110c00800000000000000
-      internalID: 864997219620443462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e945425c248f31f4d82cd4530d05458f
     internalID: 0
     vertices: []
     indices: 
