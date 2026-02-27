@@ -9,7 +9,7 @@ public class ParallaxManager : MonoBehaviour
         [Range(0, 1)] public float parallaxFactor;
     }
 
-    public ParallaxLayer[] parallaxLayers;
+    public ParallaxLayer[] layers;
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private Vector3 lastCameraPosition;
 
@@ -22,11 +22,11 @@ public class ParallaxManager : MonoBehaviour
     {
         Vector3 cameraDelta = cameraTransform.position - lastCameraPosition;
 
-        foreach(ParallaxLayer layer in parallaxLayers)
+        foreach (ParallaxLayer layer in layers)
         {
             float parallaxX = cameraDelta.x * layer.parallaxFactor;
-            float parallaxY = cameraDelta.y * layer.parallaxFactor;
-            layer.layerTransform.position = new Vector3(parallaxX, parallaxY, 0);
+            float ParallaxY = cameraDelta.y * layer.parallaxFactor;
+            layer.layerTransform.position += new Vector3(parallaxX, ParallaxY, 0);
         }
 
         lastCameraPosition = cameraTransform.position;
