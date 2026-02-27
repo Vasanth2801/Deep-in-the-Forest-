@@ -114,7 +114,11 @@ public class Enemy : MonoBehaviour
                 continue;
             }
 
-            Debug.Log("Player hit");
+            PlayerHealth health = hitCollider.GetComponent<PlayerHealth>();
+            if (health != null)
+            {
+                health.TakeDamage(10);
+            }
         }
     }
 
